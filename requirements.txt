@@ -1,0 +1,16 @@
+numpy
+scipy
+librosa
+noisereduce
+sounddevice
+soundfile
+torchaudio
+torch
+transformers
+huggingface-hub
+onnxruntime
+fastapi
+python-multipart
+uvicorn
+plyer
+scikit-learn
